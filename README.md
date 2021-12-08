@@ -2,10 +2,9 @@
 
 Simpel WhatsApp Bot
 
-## FOR DEPLOY HEROKU USER
+## DEPLOY HEROKU
 
-
-<p><a href="https://heroku.com/deploy?template=https://github.com/PUTRA-gblk/My-BotV3"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Falok111126%2FBOTV3)
 
 
 ## FOR TERMUX USER
